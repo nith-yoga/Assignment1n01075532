@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|c:\\users\\nithe\\source\\repos\\assignment1n01075532\\assignment1n01075532\\controllers\\hostingcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|solutionrelative:assignment1n01075532\\controllers\\hostingcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\assignment1n01075532\\controllers\\addten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|solutionrelative:assignment1n01075532\\controllers\\addten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\assignment1n01075532\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|solutionrelative:assignment1n01075532\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|c:\\users\\nithe\\source\\repos\\assignment1n01075532\\assignment1n01075532\\controllers\\numbermachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|solutionrelative:assignment1n01075532\\controllers\\numbermachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\assignment1n01075532\\controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02DEBB7-244A-4DE1-B2DD-62AA4F43105F}|Assignment1n01075532\\Assignment1n01075532.csproj|solutionrelative:assignment1n01075532\\controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostingCostController.cs",
+              "DocumentMoniker": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\HostingCostController.cs",
+              "RelativeDocumentMoniker": "Assignment1n01075532\\Controllers\\HostingCostController.cs",
+              "ToolTip": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\HostingCostController.cs",
+              "RelativeToolTip": "Assignment1n01075532\\Controllers\\HostingCostController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:06:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberMachineController.cs",
+              "DocumentMoniker": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\NumberMachineController.cs",
+              "RelativeDocumentMoniker": "Assignment1n01075532\\Controllers\\NumberMachineController.cs",
+              "ToolTip": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\NumberMachineController.cs",
+              "RelativeToolTip": "Assignment1n01075532\\Controllers\\NumberMachineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:35:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreetingController.cs",
+              "DocumentMoniker": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\GreetingController.cs",
+              "RelativeDocumentMoniker": "Assignment1n01075532\\Controllers\\GreetingController.cs",
+              "ToolTip": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\GreetingController.cs",
+              "RelativeToolTip": "Assignment1n01075532\\Controllers\\GreetingController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:11:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquareController.cs",
+              "DocumentMoniker": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\SquareController.cs",
+              "RelativeDocumentMoniker": "Assignment1n01075532\\Controllers\\SquareController.cs",
+              "ToolTip": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\SquareController.cs",
+              "RelativeToolTip": "Assignment1n01075532\\Controllers\\SquareController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:08:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTen.cs",
+              "DocumentMoniker": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\AddTen.cs",
+              "RelativeDocumentMoniker": "Assignment1n01075532\\Controllers\\AddTen.cs",
+              "ToolTip": "C:\\Users\\nithe\\source\\repos\\Assignment1n01075532\\Assignment1n01075532\\Controllers\\AddTen.cs",
+              "RelativeToolTip": "Assignment1n01075532\\Controllers\\AddTen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:55:20.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
